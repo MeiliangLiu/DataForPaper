@@ -1,0 +1,1 @@
+This code was used for the analysis performed during the study titled "Effects of one-week bilateral cerebellar iTBS on resting-state functional brain network and multi-task attentional performance in healthy individuals: A randomized, sham-controlled trial".
